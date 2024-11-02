@@ -1,9 +1,9 @@
 # MiniSwerve
  
-Mini Swerve Cube IDE Project designed for Alex's simple Swerve kit parts. 
+Mini Swerve Cube IDE Project designed for Alex's simple swerve kit parts. 
 
 1. Clone Repo
-2. Import Existing Project into Workspace (in Cube)
+2. Import Existing Project into Workspace (in Cube IDE)
 
 Full documentation here: https://docs.google.com/document/d/199kjoMxFxehVLtto_69sZhfjbcgzq4lx48N39xX7mas/edit?tab=t.0 
 
