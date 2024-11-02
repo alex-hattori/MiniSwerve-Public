@@ -1,0 +1,2 @@
+../Core/Src/sbus.c:3:7:normalize_chan	0	static
+../Core/Src/sbus.c:6:6:sbus_update	4	static

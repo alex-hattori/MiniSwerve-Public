@@ -1,0 +1,9 @@
+../Core/Src/LED.c:12:6:LED_Init	12	static
+../Core/Src/LED.c:20:6:LED_SetColor	12	static
+../Core/Src/LED.c:27:6:LED_SetPackedColor	8	static
+../Core/Src/LED.c:38:6:LED_Clear	12	static
+../Core/Src/LED.c:45:6:HueToRGB	24	static
+../Core/Src/LED.c:64:6:LED_RainbowRoll	32	static
+../Core/Src/LED.c:74:6:LED_Chunk	20	static
+../Core/Src/LED.c:80:6:LED_SetHeading	24	static
+../Core/Src/LED.c:107:6:LED_ShowRobotOrientation	24	static

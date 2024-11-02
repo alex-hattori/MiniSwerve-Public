@@ -1,0 +1,9 @@
+LED.c:12:6:LED_Init	4
+LED.c:20:6:LED_SetColor	5
+LED.c:27:6:LED_SetPackedColor	5
+LED.c:38:6:LED_Clear	4
+LED.c:45:6:HueToRGB	7
+LED.c:64:6:LED_RainbowRoll	5
+LED.c:74:6:LED_Chunk	7
+LED.c:80:6:LED_SetHeading	10
+LED.c:107:6:LED_ShowRobotOrientation	23

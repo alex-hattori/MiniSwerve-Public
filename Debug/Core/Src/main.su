@@ -1,0 +1,8 @@
+../Core/Inc/bno055_stm32.h:15:6:bno055_assignI2C	0	static
+../Core/Inc/bno055_stm32.h:19:6:bno055_delay	0	static
+../Core/Inc/bno055_stm32.h:27:6:Reset_I2C_Bus	40	static
+../Core/Inc/bno055_stm32.h:59:6:bno055_writeData	24	static
+../Core/Inc/bno055_stm32.h:122:6:bno055_readData	24	static
+../Core/Src/main.c:278:6:SystemClock_Config	96	static,ignoring_inline_asm
+../Core/Src/main.c:86:5:main	128	static
+../Core/Src/main.c:335:6:Error_Handler	0	static,ignoring_inline_asm
